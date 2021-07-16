@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.10.17.105/projectFile/Ios/DealerRebuildDeploy/$(MARKETING_VERSION)/202107150/Dealer-Ios-20210715_155844.ipa</string>
+					<string>https://github.com/LearnMoreAndBetter/consumer-ipa/blob/master/Consumer-Ios.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
